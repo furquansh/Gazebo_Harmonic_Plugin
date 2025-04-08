@@ -16,11 +16,7 @@
 
         <plugin name="DummySensor" filename="libDummySensor.so"></plugin>
 
-        <!-- <sensor name="dummy_sensor" type="other">
-            <always_on>true</always_on>
-            <update_rate>1</update_rate>
-            <plugin name="DummySensor" filename="libDummySensor.so"/>
-        </sensor> -->
+        
 
 
         
