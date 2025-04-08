@@ -69,5 +69,5 @@ ros2 topic echo /dummy_sensor_topics
 
 [![Watch the demo](https://img.youtube.com/vi/dr6-8dbpsQE/0.jpg)](https://www.youtube.com/watch?v=dr6-8dbpsQE)
 
-▶️ Click the image above to watch the simulation demo on YouTube.
+▶️ Click the image above to watch the Custom Plugin demo on YouTube.
 
