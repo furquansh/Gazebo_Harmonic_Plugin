@@ -39,6 +39,9 @@ ros2 run teleop_twist_keyboard teleop_twist_keyboard
 
 [![Watch the demo](https://img.youtube.com/vi/2X8w_7TlsGo/0.jpg)](https://www.youtube.com/watch?v=2X8w_7TlsGo)
 
+▶️ Click the image above to watch the simulation demo on YouTube.
+
+
 
 
 ## Plugin Creation
@@ -51,8 +54,19 @@ ros2 run teleop_twist_keyboard teleop_twist_keyboard
 ```javascript
 gz topic -l
 gz topic -e -t /dummy_sensor_topic
-ros2 topic echo /dummy_sensor_topicssssssssssssssssssssssssssssssssssssss
+ros2 topic echo /dummy_sensor_topics
+
+
 
 
 ```
+
+![Simulation Demo](assets/Screenshot from 2025-04-08 11-55-56.png)
+▶️ Necessary Plugins 
+
+
+
 [![Watch the demo](https://img.youtube.com/vi/dr6-8dbpsQE/0.jpg)](https://www.youtube.com/watch?v=dr6-8dbpsQE)
+
+▶️ Click the image above to watch the simulation demo on YouTube.
+
