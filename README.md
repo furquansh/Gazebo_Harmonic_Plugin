@@ -61,7 +61,11 @@ ros2 topic echo /dummy_sensor_topics
 
 ```
 
-![Dummy Sensor Plugin in Xacro file](assets/plugin.png)
+<!-- ![Dummy Sensor Plugin in Xacro file](assets/plugin.png) -->
+<p align="center">
+  <img src="assets/plugin.png" width="300"/>
+  <img src="assets/plugin.png" width="300"/>
+</p>
 
 ▶️ Dummy Sensor Plugin in Xacro file
 
