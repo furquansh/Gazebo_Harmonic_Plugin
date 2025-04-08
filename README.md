@@ -61,7 +61,8 @@ ros2 topic echo /dummy_sensor_topics
 
 ```
 
-![Simulation Demo](assets/Screenshot from 2025-04-08 11-55-56.png)
+![Simulation Demo](assets/plugin.png)
+
 ▶️ Necessary Plugins 
 
 
